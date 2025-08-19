@@ -70,7 +70,7 @@ if (!jsonData.status) {
 let tiktokData = jsonData.BK9;
 let captionMessage = `
 
-*╭━━〔👻 TIKTOK DOWNLOADER 👻〕━*
+*╭━━〔👻 HIRU-MD TIKTOK DOWNLOADER 👻〕━*
 *┃▸Title: ${tiktokData.description || 'No title'}*
 *╰━━━━━━━━━━━━━━━━━━━━━━*
 *╭────────────────────➤*
